@@ -1,4 +1,4 @@
-# MadDev 
+# Dungeon Crawler - MadDev 
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 01<br>
@@ -8,14 +8,14 @@
 
 | Matrícula | Aluno                            |
 | --------- | -------------------------------- |
-| 202017343 | Breno Lucena Cordeiro            |
-| 211061716 | Felipe Santos Veríssimo          |
-| 221022631 | Kauã Richard de Souza Cavalcante |
-| 190112093 | Lucas Freire Lopes               |
-| 202016963 | Mateus Vinicius Vieira           |
-| 211062830 | Philipe Barbosa de Morais        |
-| 232014754 | Pietro Calegari Visentin         |
-| 200062891 | Vinicius Fernandes Rufino        |
+| 202017343 | [Breno Lucena Cordeiro](https://github.com/BrenoLUCO)            |
+| 211061716 | [Felipe Santos Veríssimo](https://github.com/verissimoo)          |
+| 221022631 | [Kauã Richard de Souza Cavalcante](https://github.com/rich4rd1) |
+| 190112093 | [Lucas Freire Lopes](https://github.com/AguionStryke)               |
+| 202016963 | [Mateus Vinicius Vieira](https://github.com/matix0)           |
+| 211062830 | [Philipe Barbosa de Morais](https://github.com/PhMoraiis)        |
+| 232014754 | [Pietro Calegari Visentin](https://github.com/Pietrocv)         |
+| 200062891 | [Vinicius Fernandes Rufino](https://github.com/RufinoVfR)        |
 
 
 ## Sobre 
